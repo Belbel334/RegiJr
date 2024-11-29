@@ -2,7 +2,7 @@
 
 ## about 
 
-Simple LM that uses google flan 5(you can change
+Simple LM that uses google flan 5(you can change it)
 
 ## use
 
